@@ -1,6 +1,4 @@
 # pruebas-github-01
 Pruebas en Github 
 
-
-
-Línea 2
+Línea 1
